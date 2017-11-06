@@ -12,5 +12,4 @@ public class CollaborationDemoApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
