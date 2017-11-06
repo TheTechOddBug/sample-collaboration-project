@@ -13,4 +13,7 @@ public class CollaborationDemoApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	//public void contextLoads() {
+	//}
 }
