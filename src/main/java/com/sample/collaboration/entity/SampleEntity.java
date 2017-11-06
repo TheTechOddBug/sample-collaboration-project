@@ -21,4 +21,5 @@ public class SampleEntity {
 	@Id
 	private Long id;
 	private String name;
+	private String description; //Pablo's change
 }
