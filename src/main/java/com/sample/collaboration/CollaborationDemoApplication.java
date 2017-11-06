@@ -9,6 +9,6 @@ public class CollaborationDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CollaborationDemoApplication.class, args);
 SpringApplication.run(CollaborationDemoApplication.class, args);
-SpringApplication.run(CollaborationDemoApplication.class, args);
+SpringApplication.run(CollaborationDemoApplication.class, args, args, args, args, args);
 	}
 }
