@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class CollaborationDemoApplication {
-
+        // main
 	public static void main(String[] args) {
 		SpringApplication.run(CollaborationDemoApplication.class, args);
 	}
