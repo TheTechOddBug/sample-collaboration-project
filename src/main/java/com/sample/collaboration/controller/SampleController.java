@@ -17,6 +17,7 @@ public class SampleController {
 	
 	@RequestMapping("/findAll")
 	public List<SampleDto> findAll() {
+		System.out.println("findAll");
 		return sampleService.findAll();
 	}
 }
